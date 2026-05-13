@@ -86,3 +86,9 @@ The app is designed to teach:
 ## Philosophy
 
 This project focuses on learning over certainty, helping users understand that classification in biology is often probabilistic rather than absolute.
+
+## ERD
+<img width="851" height="250" alt="image" src="https://github.com/user-attachments/assets/7a94b48e-c4b3-4738-bcff-f22bf5390280" />
+
+
+
